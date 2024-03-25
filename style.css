@@ -1,0 +1,16 @@
+.titulo {
+    color:rgb(75, 0, 0);
+    text-align: center;
+}
+
+.texto {
+    font-family: 'Times New Roman';
+    color:rgb(143, 2, 2);
+    text-align: center;
+}
+
+.frase {
+    font-size: small;
+    color: rgb(179, 1, 1);
+    text-align: right;
+}
