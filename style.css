@@ -1,16 +1,23 @@
 .titulo {
-    color:rgb(75, 0, 0);
+    color:rgb(7, 221, 203);
     text-align: center;
 }
 
 .texto {
     font-family: 'Times New Roman';
-    color:rgb(143, 2, 2);
+    color:rgb(100, 7, 221);
     text-align: center;
 }
 
 .frase {
     font-size: small;
-    color: rgb(179, 1, 1);
+    color: rgb(221, 7, 157);
     text-align: right;
+}
+
+body {
+    background-image: url(fundo-do-ceu-em-aquarela-pintada-a-mao_23-2148902771.png);
+    background-repeat: initial;
+    background-size: cover;
+    background-attachment: scroll;
 }
